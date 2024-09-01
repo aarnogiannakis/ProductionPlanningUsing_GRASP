@@ -1,5 +1,7 @@
 # ProductionPlanningUsing_GRASP
 
+This project is my submission for the course 42137 Optimization using Metaheuristics, taught by Thomas Jacob Riis Stidsen and Dario Pacino at DTU.
+
 **Problem Definition**
 The goal is to assign orders to a set of production lines at the company's sites to maximize revenue. Each order has an associated production time and revenue. Additionally, cost savings can be achieved when specific products are produced on the same production line.
 
